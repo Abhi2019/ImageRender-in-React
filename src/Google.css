@@ -1,0 +1,15 @@
+.Google-login {
+  position: absolute;
+  top: 3vh;
+  left: 89vw;
+}
+.Google-div {
+    position: absolute;
+    top: 30vh;
+    left: 36vw;
+    display: flex;
+  }
+  .Google-img {
+    height: 400px;
+    width: 500px;
+  }

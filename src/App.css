@@ -3,15 +3,19 @@
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+    height: 30vmin;
+    pointer-events: none;
+    position: absolute;
+    top: 7vh;
+    left: 3vw;
+    border-radius: 33px;
+}
+.App-label {
+  position: absolute;
+  top: 10vh;
+  left: 42vw;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
 .App-header {
   background-color: #282c34;
@@ -27,12 +31,7 @@
 .App-link {
   color: #61dafb;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App-Google {
+  
 }
+

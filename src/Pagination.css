@@ -1,0 +1,22 @@
+.Pagination-nav {
+    position: absolute;
+    top: 64vh;
+
+}
+
+.Pagination-ul {
+    list-style-type: none;
+}
+
+.Pagination-ul li {
+    display: inline;
+    text-align: center;
+   padding: 18px;
+   padding-top: 1px;
+   padding-bottom: 1px;
+   text-decoration: none;
+   cursor: pointer;
+}
+.active {
+    background-color:   red; 
+}
